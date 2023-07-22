@@ -1,0 +1,21 @@
+{
+   "faction":"Metallica",
+   "contact":"https://discord.gg/EZwC6VzP",
+   "templates":[
+      {
+         "name":"MetallicaLogo",
+         "sources":[
+            "https://i.imgur.com/ByJpJYI.png"
+         ],
+         "x":-134,
+         "y":-366,
+         "frameWidth":null,
+         "frameHeight":null,
+         "frameRate":null,
+         "frameCount":null,
+         "startTime":null,
+         "looping":null
+      },
+   ],
+   "whitelist":null
+}
